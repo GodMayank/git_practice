@@ -1,2 +1,0 @@
-updating c.txt from main branch.
-adding line no 2 from the main branch.

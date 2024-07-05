@@ -1,3 +1,0 @@
-this is updated in b.txt from dev branch.
-
-adding another line from the main branch.
